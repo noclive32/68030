@@ -1,0 +1,41 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: You do not have a valid license to run simulation with SLP.
+# Contact Aldec for ordering information - sales@aldec.com.
+# ELBREAD: Warning: Module 'mux4to1' does not have a `timescale directive, but previous modules do.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: You do not have a valid license to run simulation with SLP.
+# Contact Aldec for ordering information - sales@aldec.com.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: You do not have a valid license to run simulation with SLP.
+# Contact Aldec for ordering information - sales@aldec.com.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+PSGBusArb PSGBusArb
+# ELBREAD: Elaboration process.
+# ELBREAD: You do not have a valid license to run simulation with SLP.
+# Contact Aldec for ordering information - sales@aldec.com.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5727 kB (elbread=1023 elab2=4614 kernel=89 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\68030\64m\src\wave.asdb
+#  12:10, 2 θώνÿ 2017 γ.
+#  Simulation has been initialized
+#  Selected Top-Level: PSGBusArb (PSGBusArb)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped

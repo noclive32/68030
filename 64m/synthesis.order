@@ -1,0 +1,17 @@
+i<>.\src\mmc_boot_defines.v
+i<>.\src\mmc_boot_prescaler.v
+i<>.\src\mmc_cmd_select.v
+i<>.\src\mux4to1.v
+i<>.\src\PSGBusArb.v
+i<>.\src\PSGChannelSummer.v
+i<>.\src\PSGEnvGen.v
+i<>.\src\PSGFilter.v
+i<>.\src\PSGMasterVolumeControl.v
+i<>.\src\PSGNoteGen.v
+i<>.\src\PSGNoteOutMux.v
+i<>.\src\PSGOutputSummer.v
+i<>.\src\PSGShaper.v
+i<>.\src\virtex_bitstream_const.v
+i<>.\src\xilinx_fpga_config_int.v
+i<>.\src\xmsmmc_core.v
+i<>.\src\xmsmmc_minimal.v

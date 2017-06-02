@@ -1,0 +1,12 @@
+[Version]
+Version=9.1
+[Designs]
+64m=.\64m\64m.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+64m=1

@@ -1,0 +1,56 @@
+MESSAGE "Pass 1. Scanning modules hierarchy."
+BEGINPROGRESS Compiling...
+UPDATEPROGRESS 2
+UPDATEPROGRESS 4
+UPDATEPROGRESS 6
+UPDATEPROGRESS 8
+UPDATEPROGRESS 10
+UPDATEPROGRESS 12
+UPDATEPROGRESS 14
+UPDATEPROGRESS 16
+UPDATEPROGRESS 18
+UPDATEPROGRESS 20
+UPDATEPROGRESS 22
+UPDATEPROGRESS 24
+UPDATEPROGRESS 26
+UPDATEPROGRESS 28
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol init_0 has not been declared in module xilinx_fpga_config_int." "c:/My_Designs/68030/64m/src/xilinx_fpga_config_int.v" 131 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol cclk has not been declared in module xilinx_fpga_config_int." "c:/My_Designs/68030/64m/src/xilinx_fpga_config_int.v" 186 1
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol syn_det has not been declared in module xilinx_fpga_config_int." "c:/My_Designs/68030/64m/src/xilinx_fpga_config_int.v" 253 1
+UPDATEPROGRESS 30
+UPDATEPROGRESS 32
+UPDATEPROGRESS 35
+MESSAGE "Pass 2. Processing instantiations."
+UPDATEPROGRESS 40
+UPDATEPROGRESS 45
+MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 50
+UPDATEPROGRESS 55
+UPDATEPROGRESS 60
+UPDATEPROGRESS 65
+UPDATEPROGRESS 70
+UPDATEPROGRESS 75
+UPDATEPROGRESS 80
+MESSAGE "Running Optimizer."
+MESSAGE "ELB/DAG code generating."
+UPDATEPROGRESS 81
+UPDATEPROGRESS 82
+UPDATEPROGRESS 83
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 100
+MESSAGE "Unit top modules: PSGBusArb PSGChannelSummer PSGEnvGen PSGFilter PSGMasterVolumeControl PSGNoteGen PSGOutputSummer PSGShaper xilinx_fpga_config_int xmsmmc_minimal."
+MESSAGE "$root top modules: PSGBusArb PSGChannelSummer PSGEnvGen PSGFilter PSGMasterVolumeControl PSGNoteGen PSGOutputSummer PSGShaper xilinx_fpga_config_int xmsmmc_minimal."
+ENDPROGRESS Compiling...
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."
+MESSAGE "done"

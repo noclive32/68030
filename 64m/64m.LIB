@@ -1,0 +1,141 @@
+timestamp=1496394294158
+
+[$root]
+A/$root=22|""|0|1*0
+BinI32/$root=3*0
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGBusArb]
+A/PSGBusArb=22|./src/PSGBusArb.v|31|1*6407
+BinI32/PSGBusArb=3*5785
+P/~emb=710,980,1708,1900
+R=./src/PSGBusArb.v|31
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGChannelSummer]
+A/PSGChannelSummer=22|./src/PSGChannelSummer.v|26|1*9415
+BinI32/PSGChannelSummer=3*7143
+P/~emb=257,482,705,809
+R=./src/PSGChannelSummer.v|26
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGEnvGen]
+A/PSGEnvGen=22|./src/PSGEnvGen.v|52|1*11419
+BinI32/PSGEnvGen=3*8174
+P/~emb=1033,1563,2903,3730
+R=./src/PSGEnvGen.v|52
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGFilter]
+A/PSGFilter=22|./src/PSGFilter.v|45|1*20984
+BinI32/PSGFilter=3*12292
+P/~emb=336,590,1084,1289
+R=./src/PSGFilter.v|45
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGMasterVolumeControl]
+A/PSGMasterVolumeControl=22|./src/PSGMasterVolumeControl.v|25|1*24791
+BinI32/PSGMasterVolumeControl=3*15231
+P/~emb=258,489,708,812
+R=./src/PSGMasterVolumeControl.v|25
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGNoteGen]
+A/PSGNoteGen=22|./src/PSGNoteGen.v|31|1*27359
+BinI32/PSGNoteGen=3*16642
+P/~emb=1115,1634,2707,3290
+R=./src/PSGNoteGen.v|31
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGNoteOutMux]
+A/PSGNoteOutMux=22|./src/PSGNoteOutMux.v|33|1*39694
+BinI32/PSGNoteOutMux=3*21549
+P/~emb=327,527,863,927
+R=./src/PSGNoteOutMux.v|33
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGOutputSummer]
+A/PSGOutputSummer=22|./src/PSGOutputSummer.v|25|1*42586
+BinI32/PSGOutputSummer=3*25395
+P/~emb=242,425,606,697
+R=./src/PSGOutputSummer.v|25
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[PSGShaper]
+A/PSGShaper=22|./src/PSGShaper.v|28|1*44239
+BinI32/PSGShaper=3*26246
+P/~emb=224,402,579,670
+R=./src/PSGShaper.v|28
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[mmc_boot_prescaler_16_1]
+A/mmc_boot_prescaler_16_1=22|./src/mmc_boot_prescaler.v|11|1*518
+BinI32/mmc_boot_prescaler_16_1=3*139
+P/~emb=245,465,667,778
+R=./src/mmc_boot_prescaler.v|11
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[mmc_cmd_select]
+A/mmc_cmd_select=22|./src/mmc_cmd_select.v|14|1*2133
+BinI32/mmc_cmd_select=3*747
+P/~emb=218,635,1506,1576
+R=./src/mmc_cmd_select.v|14
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[mux4to1]
+A/mux4to1=22|./src/mux4to1.v|23|1*4524
+BinI32/mux4to1=3*4404
+P/~emb=302,492,794,914
+R=./src/mux4to1.v|23
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[xilinx_fpga_config_int]
+A/xilinx_fpga_config_int=22|./src/xilinx_fpga_config_int.v|7|1*45849
+BinI32/xilinx_fpga_config_int=3*27051
+P/~emb=914,1902,3705,4112
+R=./src/xilinx_fpga_config_int.v|7
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[xmsmmc_core]
+A/xmsmmc_core=22|./src/xmsmmc_core.v|7|1*59373
+BinI32/xmsmmc_core=3*33026
+P/~emb=375,916,1753,2188
+R=./src/xmsmmc_core.v|7
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[xmsmmc_minimal]
+A/xmsmmc_minimal=22|./src/xmsmmc_minimal.v|11|1*63631
+BinI32/xmsmmc_minimal=3*35177
+P/~emb=323,530,675,844
+R=./src/xmsmmc_minimal.v|11
+Version=9.1.2353.4205  (Windows)|0000000a789cd3cd513033c955d0f53702000d42025f
+
+[~A]
+LastVerilogToplevel=xmsmmc_minimal
+ModifyID=106
+Version=73
+c:/My_Designs/68030/64m/src/mmc_boot_defines.v_mmc_boot_prescaler.v_mmc_cmd_select.v_mux4to1.v_PSGBusArb.v_PSGChannelSummer.v_PSGEnvGen.v_PSGFilter.v_PSGMasterVolumeControl.v_PSGNoteGen.v_PSGNoteOutMux.v_PSGOutputSummer.v_PSGShaper.v_virtex_bitstream_const.v_xilinx_fpga_config_int.v_xmsmmc_core.v_xmsmmc_minimal.v=0*34729*44748
+
+[~MFT]
+0=17|064m.mgf|44748|0
+1=15|164m.mgf|63631|0
+3=15|364m.mgf|35177|0
+
+[~U]
+$root=12|0*0|
+PSGBusArb=12|0*5000||0x90
+PSGChannelSummer=12|0*7848||0x90
+PSGEnvGen=12|0*8929||0x90
+PSGFilter=12|0*14038||0x90
+PSGMasterVolumeControl=12|0*15878||0x90
+PSGNoteGen=12|0*17021||0x90
+PSGNoteOutMux=12|0*21437||0x80
+PSGOutputSummer=12|0*22659||0x90
+PSGShaper=12|0*23543||0x90
+mmc_boot_prescaler_16_1=12|0*342||0x80
+mmc_cmd_select=12|0*1368||0x80
+mux4to1=12|0*3809||0x80
+xilinx_fpga_config_int=12|0*24386||0x90
+xmsmmc_core=12|0*30607||0x80
+xmsmmc_minimal=12|0*33764||0x90
+

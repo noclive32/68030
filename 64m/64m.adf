@@ -1,0 +1,83 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=64m
+
+[Library]
+64m=.\64m.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\My_Designs\68040\68040\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+64m=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/mmc_boot_defines.v=-1
+/mmc_boot_prescaler.v=-1
+/mmc_cmd_select.v=-1
+/mux4to1.v=-1
+/PSGBusArb.v=-1
+/PSGChannelSummer.v=-1
+/PSGEnvGen.v=-1
+/PSGFilter.v=-1
+/PSGMasterVolumeControl.v=-1
+/PSGNoteGen.v=-1
+/PSGNoteOutMux.v=-1
+/PSGOutputSummer.v=-1
+/PSGShaper.v=-1
+/virtex_bitstream_const.v=-1
+/xilinx_fpga_config_int.v=-1
+/xmsmmc_core.v=-1
+/xmsmmc_minimal.v=-1
+
+[Files.Data]
+.\src\mmc_boot_defines.v=Verilog Source Code
+.\src\mmc_boot_prescaler.v=Verilog Source Code
+.\src\mmc_cmd_select.v=Verilog Source Code
+.\src\mux4to1.v=Verilog Source Code
+.\src\PSGBusArb.v=Verilog Source Code
+.\src\PSGChannelSummer.v=Verilog Source Code
+.\src\PSGEnvGen.v=Verilog Source Code
+.\src\PSGFilter.v=Verilog Source Code
+.\src\PSGMasterVolumeControl.v=Verilog Source Code
+.\src\PSGNoteGen.v=Verilog Source Code
+.\src\PSGNoteOutMux.v=Verilog Source Code
+.\src\PSGOutputSummer.v=Verilog Source Code
+.\src\PSGShaper.v=Verilog Source Code
+.\src\virtex_bitstream_const.v=Verilog Source Code
+.\src\xilinx_fpga_config_int.v=Verilog Source Code
+.\src\xmsmmc_core.v=Verilog Source Code
+.\src\xmsmmc_minimal.v=Verilog Source Code
+
